@@ -1,6 +1,6 @@
 ## 1.计算机基础知识
 
-1.1 基础：[计算机科学](https://github.com/magicmai/computer-knowledge/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6.md) | [计算机开机过程](https://github.com/magicmai/about-computer/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BC%80%E6%9C%BA%E8%BF%87%E7%A8%8B.md)
+1.1 基础：[计算机科学](https://github.com/magicmai/computer-knowledge/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6.md) | [计算机开机过程](https://github.com/magicmai/about-computer/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E3%80%91%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%BC%80%E6%9C%BA%E8%BF%87%E7%A8%8B.md) |
 
 1.2 阅读笔记：[《计算机使怎样跑起来的》](https://github.com/magicmai/computer-knowledge/blob/master/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E3%80%91%E7%AC%94%E8%AE%B0%E3%80%91%E3%80%8A%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E8%B7%91%E8%B5%B7%E6%9D%A5%E7%9A%84%E3%80%8B.md) |
 
